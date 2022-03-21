@@ -1,6 +1,9 @@
 OrderFood.Droid.MainActivity, OrderFood.Android;crc6485aaa95be559b997.MainActivity
 OrderFood.Droid.MainActivity;crc6485aaa95be559b997.MainActivity
 orderfood.droid.MainActivity;crc6485aaa95be559b997.MainActivity
+OrderFood.Droid.Resources.CustomEntryRenderer, OrderFood.Android;crc645124725c561db232.CustomEntryRenderer
+OrderFood.Droid.Resources.CustomEntryRenderer;crc645124725c561db232.CustomEntryRenderer
+orderfood.droid.resources.CustomEntryRenderer;crc645124725c561db232.CustomEntryRenderer
 OrderFood.Droid.Resources.MainViewRenderer, OrderFood.Android;crc645124725c561db232.MainViewRenderer
 OrderFood.Droid.Resources.MainViewRenderer;crc645124725c561db232.MainViewRenderer
 orderfood.droid.resources.MainViewRenderer;crc645124725c561db232.MainViewRenderer
