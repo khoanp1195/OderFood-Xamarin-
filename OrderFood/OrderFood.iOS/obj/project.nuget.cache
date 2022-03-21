@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M8HYN0bvX/CP7zSdw9aT2AoE9Vjdx+RW48pw+UFWmDaVM8kfz2mxh3FnT/amkKOWCrD0lxT4++BBF/kANyTew==",
+  "success": true,
+  "projectFilePath": "D:\\Xamarin\\OrderFood\\OrderFood\\OrderFood.iOS\\OrderFood.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
