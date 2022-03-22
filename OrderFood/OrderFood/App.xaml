@@ -26,12 +26,12 @@
             </Style>
             <Style TargetType="Label" x:Key="LabelTitleStyle">
                 <Setter Property="FontFamily" Value="{StaticResource Avo}"/>
-                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontSize" Value="15"/>
                 <Setter Property="TextColor" Value="{StaticResource TextColor}"/>
             </Style>
             <Style TargetType="Label" x:Key="LabelWellcomeStyle">
                 <Setter Property="FontFamily" Value="{StaticResource Avo}"/>
-                <Setter Property="FontSize" Value="25"/>
+                <Setter Property="FontSize" Value="15"/>
                 <Setter Property="TextColor" Value="{StaticResource TextColor}"/>
             </Style>
         </ResourceDictionary>

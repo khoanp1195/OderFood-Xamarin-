@@ -756,3 +756,10 @@ D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\drawable-hdpi
 D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\androidx\jl\1b34f4a7-b01a-4348-a361-8b58f9668eab.jar
 D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\androidx\proguard\2088b26b-1329-48b5-ba2c-6cb594fe1d9c.cfg
 D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\android\src\crc645124725c561db232\CustomEntryRenderer.java
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-anydpi-v26\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-hdpi\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-mdpi\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-xhdpi\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-xxhdpi\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-xxxhdpi\foodappicon.jpg
+D:\Xamarin\OrderFood\OrderFood\OrderFood.Android\obj\Debug\110\res\mipmap-anydpi-v26\logo.png
